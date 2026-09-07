@@ -1,60 +1,227 @@
-## 👋 Hey  I'm Albin!  
-### 🚀 Developer | 🌍 Space Enthusiast | 🎨Artist
+# 👋 Hey, I'm Albin Thomas
+
+### `Developer` • `Space Enthusiast` • `Artist` 🚀
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+things+with+code+%F0%9F%92%BB;Exploring+the+universe+%F0%9F%8C%8C;Turning+ideas+into+projects+%F0%9F%9A%80;Always+learning+something+new+%E2%9C%A8" alt="Typing SVG" />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
 ---
 
-### 🔥 About Me
->I am a BCA Student
->I'm curious about learning new things and love technology and space
+## 🧑‍💻 About Me
 
-🎯 **Current Focus:**   
-💡 **Hobbies:** Sci-fi movies, gaming, astrophile, and comic book reading
-
----
-#### A little more about me
 ```javascript
 const albin = {
-  pronouns: "He" | "Him",
-  code: ["Javascript", "Bootstrap", "HTML", "CSS"],
-  askMeAbout: ["Technologies", "Space", "Movies"]
-}
+    name: "Albin Thomas",
+    role: "Developer",
+    education: "BCA Student",
+
+    interests: [
+        "Software Development",
+        "Space & Astronomy",
+        "Artificial Intelligence",
+        "Creative Technology"
+    ],
+
+    hobbies: [
+        "Sci-Fi Movies 🎬",
+        "Gaming 🎮",
+        "Astrophotography 🌌",
+        "Comic Books 📚",
+        "Digital Art 🎨"
+    ],
+
+    currentlyLearning: [
+        "Flutter",
+        "Backend Development",
+        "APIs",
+        "System Design"
+    ],
+
+    motto: "Stay curious. Keep building. 🚀"
+};
 ```
-### ⚡ Tech Stack
 
-**💻 Programming & Markup:**  
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+> 🌌 **I’m a developer who loves building things and a space enthusiast who never gets tired of looking up.**
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzR1Z2o0bDZpZmMyNTFiYmQ0OGI1M2d5a3N6bWIwYjJyMTIzYnZ4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"/>
+I'm currently studying **BCA** while exploring software development, new technologies, and creative projects.
 
-**🌐 Web Development:**  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-
-**🛠️ Tools & Frameworks:**  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+I enjoy taking an idea from **"What if...?" → "Let's build it."**
 
 ---
 
-### 📬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albin-thomas22)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/MrWings22)  
-📧 **Email:** albinthomas6210@gmail.com  
+## 🚀 What I'm Doing
 
-💬 Feel free to reach out to discuss projects, ideas, or just chat about space, tech, or movies!
+* 💻 Building and experimenting with software projects
+* 📱 Exploring **Flutter & mobile development**
+* 🌐 Working with APIs and backend systems
+* 🧠 Learning new technologies
+* 🌌 Exploring astronomy, astrophysics & space
+* 🎨 Experimenting with digital art and creative ideas
+* 🎮 Gaming when I'm not coding
+* 🎬 Watching way too much sci-fi
 
 ---
 
-### 📊 GitHub Stats
-![Albin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrWings22&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrWings22&layout=compact&theme=radical)
+## 🛠️ Tech Universe
 
-🚀 **Keep Innovating & Stay Curious!** ✨
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,php" />
+</p>
+
+### 🌐 Web & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,django,php,mysql" />
+</p>
+
+### 📱 Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+### 🔧 Tools & Environment
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postman" />
+</p>
+
+---
+
+## 🌌 My Developer Philosophy
+
+```text
+                ┌──────────────────────┐
+                │       IDEA 💡       │
+                └──────────┬───────────┘
+                           ↓
+                    ┌──────────────┐
+                    │   EXPLORE 🔭 │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │   BUILD 🛠️  │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │   BREAK 💥   │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │   LEARN 🧠   │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │   REPEAT 🚀  │
+                    └──────────────┘
+```
+
+### I believe:
+
+> **The best way to learn technology is to build something with it.**
+
+---
+
+## 🚀 Featured Projects
+
+> 🔭 A few things I've built, experimented with, or am currently working on.
+
+| Project              | Description                        | Tech    |
+| -------------------- | ---------------------------------- | ------- |
+| 🚀 **Project Alpha** | Something I'm building             | Flutter |
+| 🌐 **Project Beta**  | Web / backend experiment           | Django  |
+| 🤖 **Project Gamma** | Automation / technology experiment | Python  |
+| 🎨 **Creative Lab**  | Digital & creative experiments     | Various |
+
+> 💡 Replace these with your actual repositories and projects. If you give me your GitHub repositories, I can turn this section into a **proper project showcase**.
+
+---
+
+## 📊 GitHub Universe
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrWings22&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrWings22&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MrWings22&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 My Contribution Universe
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+</p>
+
+---
+
+## 🌠 Random Developer Thought
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🌍 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/MrWings22">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/albin-thomas22">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:albinthomas6210@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+```text
+[████████████████░░░░] Build better projects
+[██████████████░░░░░░] Improve Flutter skills
+[████████████░░░░░░░░] Learn deeper backend concepts
+[██████████░░░░░░░░░░] Explore AI
+[████████░░░░░░░░░░░░] Learn more about space 🚀
+[██████░░░░░░░░░░░░░░] Create something unforgettable
+```
+
+---
+
+## 🛰️ Visitor Signal
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MrWings22&label=Profile%20Visitors&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+
+### 🚀 Keep Exploring. Keep Building. Keep Learning.
+
+**"Somewhere, something incredible is waiting to be known."** 🌌
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+
+</p>
