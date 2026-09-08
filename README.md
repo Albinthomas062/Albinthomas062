@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+things+with+code+%F0%9F%92%BB;Exploring+the+universe+%F0%9F%8C%8C;Turning+ideas+into+projects+%F0%9F%9A%80;Always+learning+something+new+%E2%9C%A8" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Welcome to my GitHub header banner" />
 </p>
 
 ---
@@ -70,25 +70,25 @@ I enjoy taking an idea from **"What if...?" → "Let's build it."**
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,php" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,php" alt="Programming languages: C, C++, Python, Java, JavaScript, PHP" />
 </p>
 
 ### 🌐 Web & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,django,php,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,django,php,mysql" alt="Web and backend technologies: HTML, CSS, JavaScript, Django, PHP, MySQL" />
 </p>
 
 ### 📱 Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile development: Flutter, Dart" />
 </p>
 
 ### 🔧 Tools & Environment
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postman" alt="Tools and environment: Linux, Git, GitHub, VS Code, Postman" />
 </p>
 
 ---
@@ -145,8 +145,8 @@ I enjoy taking an idea from **"What if...?" → "Let's build it."**
 ## 📊 GitHub Universe
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrWings22&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrWings22&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MrWings22&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="180" alt="Albin Thomas' GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrWings22&layout=compact&hide_border=true&theme=tokyonight" height="180" alt="Top Languages Used"/>
 </p>
 
 ---
@@ -154,7 +154,7 @@ I enjoy taking an idea from **"What if...?" → "Let's build it."**
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MrWings22&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=MrWings22&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak Stats" />
 </p>
 
 ---
@@ -170,7 +170,7 @@ I enjoy taking an idea from **"What if...?" → "Let's build it."**
 ## 🌠 Random Developer Thought
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Developer Quote" />
 </p>
 
 ---
@@ -180,15 +180,15 @@ I enjoy taking an idea from **"What if...?" → "Let's build it."**
 <p align="center">
 
 <a href="https://github.com/MrWings22">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
 
 <a href="https://www.linkedin.com/in/albin-thomas22">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
 </a>
 
 <a href="mailto:albinthomas6210@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact"/>
 </a>
 
 </p>
@@ -211,7 +211,7 @@ I enjoy taking an idea from **"What if...?" → "Let's build it."**
 ## 🛰️ Visitor Signal
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrWings22&label=Profile%20Visitors&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=MrWings22&label=Profile%20Visitors&color=0e75b6&style=for-the-badge" alt="Profile Visitors Count" />
 </p>
 
 ---
@@ -222,6 +222,6 @@ I enjoy taking an idea from **"What if...?" → "Let's build it."**
 
 **"Somewhere, something incredible is waiting to be known."** 🌌
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="Decorative footer banner"/>
 
 </p>
