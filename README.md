@@ -16,7 +16,7 @@
 const albin = {
     name: "Albin Thomas",
     role: "Developer",
-    education: "BCA Student",
+    education: "BCA Graduate",
 
     interests: [
         "Software Development",
@@ -28,7 +28,7 @@ const albin = {
     hobbies: [
         "Sci-Fi Movies 🎬",
         "Gaming 🎮",
-        "Astrophotography 🌌",
+        "Astrophile 🌌",
         "Comic Books 📚",
         "Digital Art 🎨"
     ],
@@ -44,11 +44,11 @@ const albin = {
 };
 ```
 
-> 🌌 **I’m a developer who loves building things and a space enthusiast who never gets tired of looking up.**
+> 🌌 **I’m a developer who loves building things and a space enthusiast who never gets tired of looking up**
 
-I'm currently studying **BCA** while exploring software development, new technologies, and creative projects.
+I'm currently working as a Developer while exploring New solutions, new technologies, and creative projects.
 
-I enjoy taking an idea from **"What if...?" → "Let's build it."**
+I enjoy taking an idea from **"What if...?" → "Let's build it"**
 
 ---
 
@@ -127,34 +127,11 @@ I enjoy taking an idea from **"What if...?" → "Let's build it."**
 
 ---
 
-## 🚀 Featured Projects
-
-> 🔭 A few things I've built, experimented with, or am currently working on.
-
-| Project              | Description                        | Tech    |
-| -------------------- | ---------------------------------- | ------- |
-| 🚀 **Project Alpha** | Something I'm building             | Flutter |
-| 🌐 **Project Beta**  | Web / backend experiment           | Django  |
-| 🤖 **Project Gamma** | Automation / technology experiment | Python  |
-| 🎨 **Creative Lab**  | Digital & creative experiments     | Various |
-
-> 💡 Replace these with your actual repositories and projects. If you give me your GitHub repositories, I can turn this section into a **proper project showcase**.
-
----
-
 ## 📊 GitHub Universe
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrWings22&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrWings22&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MrWings22&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -205,14 +182,6 @@ I enjoy taking an idea from **"What if...?" → "Let's build it."**
 [████████░░░░░░░░░░░░] Learn more about space 🚀
 [██████░░░░░░░░░░░░░░] Create something unforgettable
 ```
-
----
-
-## 🛰️ Visitor Signal
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrWings22&label=Profile%20Visitors&color=0e75b6&style=for-the-badge" />
-</p>
 
 ---
 
