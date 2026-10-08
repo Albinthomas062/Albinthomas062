@@ -2,10 +2,10 @@
 
 ### `Developer` • `Space Enthusiast` • `Artist` 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+things+with+code+%F0%9F%92%BB;Exploring+the+universe+%F0%9F%8C%8C;Turning+ideas+into+projects+%F0%9F%9A%80;Always+learning+something+new+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+things+with+code+%F0%9F%92%BB;Exploring+the+universe+%F0%9F%8C%8C;Turning+ideas+into+projects+%F0%9F%9A%80;Always+learning+something+new+%E2%9C%A8" alt="Typing SVG: Building things with code, Exploring the universe, Turning ideas into projects, Always learning something new" />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Welcome to my GitHub banner" />
 </p>
 
 ---
@@ -14,33 +14,33 @@
 
 ```javascript
 const albin = {
-    name: "Albin Thomas",
-    role: "Developer",
-    education: "BCA Graduate",
+  name: "Albin Thomas",
+  role: "Developer",
+  education: "BCA Graduate",
 
-    interests: [
-        "Software Development",
-        "Space & Astronomy",
-        "Artificial Intelligence",
-        "Creative Technology"
-    ],
+  interests: [
+    "Software Development",
+    "Space & Astronomy",
+    "Artificial Intelligence",
+    "Creative Technology",
+  ],
 
-    hobbies: [
-        "Sci-Fi Movies 🎬",
-        "Gaming 🎮",
-        "Astrophile 🌌",
-        "Comic Books 📚",
-        "Digital Art 🎨"
-    ],
+  hobbies: [
+    "Sci-Fi Movies 🎬",
+    "Gaming 🎮",
+    "Astrophile 🌌",
+    "Comic Books 📚",
+    "Digital Art 🎨",
+  ],
 
-    currentlyLearning: [
-        "Flutter",
-        "Backend Development",
-        "APIs",
-        "System Design"
-    ],
+  currentlyLearning: [
+    "Flutter",
+    "Backend Development",
+    "APIs",
+    "System Design",
+  ],
 
-    motto: "Stay curious. Keep building. 🚀"
+  motto: "Stay curious. Keep building. 🚀",
 };
 ```
 
@@ -54,14 +54,14 @@ I enjoy taking an idea from **"What if...?" → "Let's build it"**
 
 ## 🚀 What I'm Doing
 
-* 💻 Building and experimenting with software projects
-* 📱 Exploring **Flutter & mobile development**
-* 🌐 Working with APIs and backend systems
-* 🧠 Learning new technologies
-* 🌌 Exploring astronomy, astrophysics & space
-* 🎨 Experimenting with digital art and creative ideas
-* 🎮 Gaming when I'm not coding
-* 🎬 Watching way too much sci-fi
+- 💻 Building and experimenting with software projects
+- 📱 Exploring **Flutter & mobile development**
+- 🌐 Working with APIs and backend systems
+- 🧠 Learning new technologies
+- 🌌 Exploring astronomy, astrophysics & space
+- 🎨 Experimenting with digital art and creative ideas
+- 🎮 Gaming when I'm not coding
+- 🎬 Watching way too much sci-fi
 
 ---
 
@@ -70,25 +70,25 @@ I enjoy taking an idea from **"What if...?" → "Let's build it"**
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,php" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,php" alt="Languages: C, C++, Python, Java, JavaScript, PHP" />
 </p>
 
 ### 🌐 Web & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,django,php,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,django,php,mysql" alt="Web & Backend: HTML, CSS, JavaScript, Django, PHP, MySQL" />
 </p>
 
 ### 📱 Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Development: Flutter, Dart" />
 </p>
 
 ### 🔧 Tools & Environment
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postman" alt="Tools & Environment: Linux, Git, GitHub, VS Code, Postman" />
 </p>
 
 ---
@@ -130,8 +130,8 @@ I enjoy taking an idea from **"What if...?" → "Let's build it"**
 ## 📊 GitHub Universe
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrWings22&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrWings22&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MrWings22&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Albin Thomas's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrWings22&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
 
 ---
@@ -147,7 +147,7 @@ I enjoy taking an idea from **"What if...?" → "Let's build it"**
 ## 🌠 Random Developer Thought
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Developer Quote" />
 </p>
 
 ---
@@ -157,15 +157,15 @@ I enjoy taking an idea from **"What if...?" → "Let's build it"**
 <p align="center">
 
 <a href="https://github.com/MrWings22">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/albin-thomas22">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:albinthomas6210@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </p>
@@ -191,6 +191,6 @@ I enjoy taking an idea from **"What if...?" → "Let's build it"**
 
 **"Somewhere, something incredible is waiting to be known."** 🌌
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="Footer wave banner"/>
 
 </p>
