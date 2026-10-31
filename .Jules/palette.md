@@ -1,0 +1,3 @@
+## 2026-10-31 - GitHub Profile README Image Accessibility
+**Learning:** External SVG generators and dynamic badge services (e.g., skillicons.dev, github-readme-stats, capsule-render, shields.io) in markdown profiles default to empty or absent `alt` attributes when embedded as raw `<img>` tags. Screen reader users miss vital contextual information (such as language proficiencies, stats, and navigation link destinations) unless explicit, descriptive `alt` text is added.
+**Action:** When auditing or enhancing GitHub profile READMEs, ensure every `<img>` element—especially icon rows, banner waves, and badge links—includes meaningful, concise `alt` descriptions conveying the visual content or destination.
